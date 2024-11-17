@@ -5,5 +5,7 @@ The datasets used in this work are publicly available and can be accessed throug
 The dataset used during the current study are available in: 
 
 **Jochen Triesch Static Hand Posture Database (T-ASL):** www.idiap.ch/webarchives/sites/www.idiap.ch/resource/gestures
+
 **Sebastien Marcel Static Hand Posture (SMSHP):** www.idiap.ch/webarchives/sites/www.idiap.ch/resource/gestures
+
 **Custom ISL dataset:** https://data.mendeley.com/datasets/n34wm8sb3x/1
